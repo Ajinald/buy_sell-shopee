@@ -545,7 +545,7 @@ letter-spacing: 1px;
 
 #product-container{
     font-family: 'Nunito', sans-serif;
-    background-color:  #eee;
+    background-color:  #fff;
     
 }
 .product-holder{
@@ -572,7 +572,7 @@ letter-spacing: 1px;
        box-shadow: 0 14px 28px rgba(0,0,0,0.25),
        0 10px 10px rgba(0,0,0,0.22);
        
-       background: #f2f2f2;
+       background: #fff;
     
        
     }
